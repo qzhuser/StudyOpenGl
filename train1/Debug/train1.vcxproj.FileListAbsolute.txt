@@ -1,0 +1,2 @@
+D:\OpenGlProjects\train1\Debug\train1.exe
+D:\OpenGlProjects\train1\Debug\train1.pdb

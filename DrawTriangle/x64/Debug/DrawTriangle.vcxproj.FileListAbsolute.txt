@@ -1,0 +1,2 @@
+D:\OpenGlProjects\DrawTriangle\x64\Debug\DrawTriangle.exe
+D:\OpenGlProjects\DrawTriangle\x64\Debug\DrawTriangle.pdb
